@@ -1,0 +1,7 @@
+bin
+obj
+
+SeekQ.ApiGateway.BFF.Mobile/bin
+SeekQ.ApiGateway.BFF.Mobile/obj
+
+.vs
