@@ -41,11 +41,11 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "seekq.myinterestlevels.api",
+          "Host": "seekq.interests.api",
           "Port": 80
         }
       ],
-      "UpstreamPathTemplate": "/api/{version}/myinterestlevels/{everything}",
+      "UpstreamPathTemplate": "/api/{version}/interests/{everything}",
       "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ]
     }
   ]
